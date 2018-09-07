@@ -1,0 +1,218 @@
+%\documentclass[aps,prb]{revtex4}
+%\documentclass[aps,prb,twocolumn]{revtex4-1}
+\documentclass[showpacs,aps,prb,reprint,superscriptaddress]{revtex4-1}
+%\documentclass[showpacs,aps,prl,reprint,superscriptaddress,showkeys,floatfix,citeautoscript]{revtex4-1}
+\usepackage{bm}
+\usepackage{graphicx}
+\usepackage{graphics}
+\usepackage{amsmath}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{epstopdf}
+\usepackage{hyperref}
+\usepackage{hyperref}
+\hypersetup{
+    colorlinks,%
+    citecolor=blue,%
+    linkcolor=blue,%
+    urlcolor=blue
+}
+%\usepackage{pgf}
+\usepackage{tikz}\usetikzlibrary{petri}
+%\usepackage{bbold}
+%\usepackage{makeidx}
+\newcommand{\TS}[1]{{$\rightarrow$ {\sl#1}}}
+\newcommand{\LUIS}[1]{\textcolor{blue}{\fbox{Luis} {\sl#1}}}
+\begin{document}
+
+
+\newcommand{\be}   {\begin{equation}}
+\newcommand{\ee}   {\end{equation}}
+\newcommand{\ba}   {\begin{eqnarray}}
+\newcommand{\ea}   {\end{eqnarray}}
+\newcommand{\ve}  {\varepsilon}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\title{ Majorana-Kondo coexistance in a double quantum dot. }
+
+\author{Jesus D. Cifuentes}
+\affiliation{Instituto de F\'{\i}sica, Universidade de S\~{a}o Paulo,
+C.P.\ 66318, 05315--970 S\~{a}o Paulo, SP, Brazil}
+\author{Luis G.~G.~V. Dias da Silva}
+\affiliation{Instituto de F\'{\i}sica, Universidade de S\~{a}o Paulo,
+C.P.\ 66318, 05315--970 S\~{a}o Paulo, SP, Brazil}
+
+\date{ \today }
+
+\begin{abstract}
+
+The abstract contains a few, carefully written sentences summarizing the major points in the paper. It is followed by a list of (preferably numbered) sentences that summarize the major points of paragraphs in the paper.
+
+
+\end{abstract} 
+\pacs{ APS does not use it anymore}
+%\keywords{Quantum Spin-Hall effect, Edge transport, Topological insulators}
+
+\maketitle
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\section{Introduction}
+\label{sec:Intro}
+
+(To be written)  
+
+
+
+
+\TS{Focus on Take-home message(THM)}
+\begin{itemize} 
+\item During the research stage, the THM may
+be unclear or change, but during the TS/TSO stage the THM must be clear.
+
+An excellent THM can be shortened to be the \textit{title} of talk/paper.
+
+\item You don't have a THM, until you have simple, clear sentence
+expressing it.
+
+\item The THM drives the organization.  When it doesn't, something is wrong
+with either it or TS/TSO.
+\end{itemize} 
+
+
+\TS{There must an introductory paragraph that sets the paper in context; in this paragraph the topic sentence can be at the end.}
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\section{Model and Methods}
+\label{sec:modelmethods}
+
+\LUIS{My comments}
+
+\subsection{Topic sentences}
+\label{sec:TopicSentences}
+
+\begin{itemize}
+
+\item Topic sentence is the point of paragraph or a slide.  Whenever a
+paragraph/slide is \textit{not} about single point,
+\textbf{revise}
+either splitting up paragraph/slide or rewriting topic sentence.
+
+\item Several views:
+
+\item TS is 1st sentence of paragraph; introduces main idea of paragraph;
+indicates to reader what paragraph is about.
+\item Contract between writer and reader: here is idea I want to explain;
+all right explain it to me.  Contract means: (i) only one topic that both
+understand; (ii) a
+limited topic; not more general than supporting evidence in paragraph; (iii) TS directs flow of paragraph.
+
+\item Some of TS functions: (i) announces the topic; (ii) make transition
+from previous paragraph; (iii) forecasts sub-topics to be dealt with in
+a whole serious of paragraphs.
+
+\item \textbf{Efficiency}. Revision of the plan of paper is much easier and
+quicker if you have only to delete or re-order sentences.  
+Doing this on the completed draft involves much more work.
+
+\item Since a concept must be explained when it first appears,
+interchanging paragraphs will require moving definitions.
+
+\item Paragraphs should smoothly flow into each other.
+Reordering paragraphs may require extensive rewriting.
+
+
+\item \textbf{Writing to length.}  With a sentence outline you can easily
+judge how long the manuscript will be and modify it
+to keep the essential material within the prescribed length.
+
+\item \textbf{Time} . All the above -- clarity, argument flow,
+efficiency, length management -- can be done faster using a sentence
+outline.
+
+But \textit{spoken} \textbf{practice}  (before audience if possible) gives
+best check on how smoothly you give talk to desired time.
+
+\end{itemize}
+
+
+How do I write topic sentences?
+
+\begin{enumerate}
+\item Each sentence must be a sentence -- that is, it has a subject
+("each sentence"), a verb ("must be"), and a complement ("a sentence").
+
+\item The sentence should be as specific as possible so that the main
+points/features of the paragraph are clear.
+
+\item Each sentence is the "topic sentence*" of the
+paragraph and usually appears as the first sentence of the paragraph.
+
+\item If one numbered item contains two sentences, make sure you are
+not squeezing two paragraphs into one.  For a paper of n double-spaced
+pages, there should be 2n to 3n paragraphs.
+
+\item The sentences should be organized to construct coherent arguments
+toward your paper's conclusions. 
+
+\item There must an introductory paragraph that sets the paper in
+context; in this paragraph the topic sentence can be at the end.   
+
+\item Generally, the next paragraph presents the principal results or
+conclusions to be presented in the text of the paper.
+
+\item The final paragraph should deftly summarize only the
+results defended in the body of the paper.
+
+\item The outline should be double spaced.
+
+\item You should include at the end the most important
+references you will use.  These can be cited in individual sentences of
+the outline, if you want, to make clear where they are relevant.
+
+\end{enumerate}
+
+Taken from Ref. \onlinecite{WilkinsPage}.
+
+%-----------F I G U R E  1 ------
+\begin{figure}[t]
+\begin{center}
+%\includegraphics[width=1.0\columnwidth]{./Images/NTINjunction.jpg}
+\caption{  Caption goes here %
+}
+%
+\label{fig:Name}
+\end{center}
+\end{figure}
+%-----------E N D  F I G U R E  1 ------
+
+
+
+
+\section{Results}
+\label{sec:Results}
+
+
+Here the main results are:
+
+
+
+\section{Concluding remarks}
+\label{sec:Conclusions}
+
+Conclusion goes here.
+
+\begin{acknowledgments}
+The authors thank ... for enlightening discussions.  L.G.G.V.D.S. acknowledges financial support by CNPq (grants No. 307107/2013-2 and 449148/2014-9), PRP-USP NAP-QNano and FAPESP (grant No. 2016/18495-4).
+\end{acknowledgments}
+
+%\bibliography{../../BibFiles/Proposal_Luis_Theory,HgTe}
+\bibliography{template}
+
+
+
+
+\end{document}
+
+

@@ -1,0 +1,419 @@
+% Encoding: UTF-8
+
+@article{wilson_renormalization_1975,
+	title = {The renormalization group: {Critical} phenomena and the {Kondo} problem},
+	volume = {47},
+	shorttitle = {The renormalization group},
+	url = {https://link.aps.org/doi/10.1103/RevModPhys.47.773},
+	doi = {10.1103/RevModPhys.47.773},
+	abstract = {This review covers several topics involving renormalization group ideas. The solution of the s-wave Kondo Hamiltonian, describing a single magnetic impurity in a nonmagnetic metal, is explained in detail. See Secs. VII-IX. "Block spin" methods, applied to the two dimensional Ising model, are explained in Sec. VI. The first three sections give a relatively short review of basic renormalization group ideas, mainly in the context of critical phenomena. The relationship of the modern renormalization group to the older problems of divergences in statistical mechanics and field theory and field theoretic renormalization is discussed in Sec. IV. In Sec. V the special case of "marginal variables" is discussed in detail, along with the relationship of the modern renormalization group to its original formulation by Gell-Mann and Low and others.},
+	number = {4},
+	urldate = {2017-05-02},
+	journal = {Rev. Mod. Phys.},
+	author = {Wilson, Kenneth G.},
+	month = oct,
+	year = {1975},
+	pages = {773--840},
+	file = {APS Snapshot:files/6/RevModPhys.47.html:text/html;Full Text PDF:files/5/Wilson - 1975 - The renormalization group Critical phenomena and .pdf:application/pdf}
+}
+
+@book{bimberg_quantum_1999,
+	address = {Chichester, Eng.; New York},
+	edition = {1},
+	title = {Quantum {Dot} {Heterostructures}},
+	isbn = {978-0-471-97388-1},
+	abstract = {Quantum Dot Heterostructures Dieter Bimberg, Marius Grundmann and Nikolai N. Ledentsov Institute of Solid State Physics, Technische Universität Berlin, Germany Quantum dots are nanometer-size semiconductor structures, and represent one of the most rapidly developing areas of current semiconductor research as increases in the speed and decreases in the size of semiconductor devices become more important. They present the utmost challenge to semiconductor technology, making possible fascinating novel devices. This important new reference book focuses on the key phenomena and principles. Chapter 1 provides a brief account of the history of quantum dots, whilst the second chapter surveys the various fabrication techniques used in the past two decades, and introduces the concept of self-organized growth. This topic is expanded in the following chapter, which presents a broad review of self-organization phenomena at surfaces of crystals. Experimental results on growth of quantum dot structures in many different systems and on their structural characterization are presented in Chapter 4. Basic properties of the dots relate to their geometric structure and chemical composition. Numerical modeling of the electronic and optical properties of real dots is presented in Chapter 5, together with general theoretical considerations on carrier capture, relaxation, recombination and properties of quantum dot lasers. Chapters 6 and 7 summarize experimental results on electronic, optical and electrical properties. The book concludes by disoussing highly topical results on quantum-dot-based photonic devices - mainly quantum dot lasers. Quantum Dot Heterostructures is written by some of the key researchers who have contributed significantly to the development of the field, and have pioneered both the theoretical understanding of quantum dot related phenomena and quantum dot lasers. It is of great interest to graduate and postgraduate students, and to researchers in semiconductor physics and technology and optoelectronics.},
+	language = {English},
+	publisher = {Wiley},
+	author = {Bimberg, Dieter and Grundmann, Marius and Ledentsov, Nikolai N.},
+	month = mar,
+	year = {1999}
+}
+
+@article{krishna-murthy_renormalization-group_1980,
+	title = {Renormalization-group approach to the {Anderson} model of dilute magnetic alloys. 1. {Static} properties for the symmetric case},
+	volume = {B21},
+	doi = {10.1103/PhysRevB.21.1003},
+	abstract = {The temperature-dependent impurity susceptibility for the symmetric Anderson model is calculated for all physically relevant values of its parameters U (the Coulomb correlation energy) and Γ (the impurity-level width). It is shown that, when U{\textgreater}πΓ, for temperatures T{\textless}U(10kB) the symmetric Anderson model exhibits a local moment and that its susceptibility maps neatly onto that of the spin-½ Kondo model with an effective coupling given by ρJeff=−8ΓπU. Furthermore, this mapping is shown for remarkably large values of {\textbar}ρJeff{\textbar}. At very low temperatures (much smaller than the Kondo temperature) the local moment is frozen out, just as for the Kondo model, leading to a strong-coupling regime of constant susceptibility at zero termperature. The results also depict the formation of a local moment from the free orbital as T drops below U, a feature not present in the Kondo model. Finally, when U≪πΓ there is a direct transition from free-orbital regime for T≫Γ to the strong-coupling regime for T≪Γ. The calculations were performed using the numerical renormalization group originally developed by Wilson for the Kondo problem. In addition to the actual numerical calculations, analytic results are presented. In particular, the effective Hamiltonians, i.e., fixed-point Hamiltonian plus relevant and marginal operators, are constructed for the free-orbital, local-moment, and strong-coupling regimes. Analytic formulas for the impurity susceptibility and free energy in all three regimes are developed. The impurity specfic heat in the strong-coupling regime is calculated.},
+	journal = {Phys.Rev.},
+	author = {Krishna-murthy, H. R. and Wilkins, J. W. and Wilson, K. G.},
+	year = {1980},
+	pages = {1003--1043},
+	file = {INSPIRE Snapshot:files/19/163906.html:text/html}
+}
+
+@book{hewson_kondo_1997,
+	title = {The {Kondo} {Problem} to {Heavy} {Fermions}},
+	isbn = {978-0-521-59947-4},
+	abstract = {This book deals with the concepts and techniques that have been developed to meet this challenge and with their application to the interpretation of experiment. The author surveys in detail the many-body techniques, scaling, renormalization group, Fermi liquid and Bethe ansatz, which lead to a solution of the Kondo problem for most of the theoretical models. The book also deals with special techniques for N-fold degenerate models for rare earth magnetic impurities. The many-body techniques developed to deal with strong correlation impurity problems have also been extended to provide a partial explanation of heavy fermion behavior.},
+	language = {en},
+	publisher = {Cambridge University Press},
+	author = {Hewson, Alexander Cyril},
+	month = apr,
+	year = {1997},
+	note = {Google-Books-ID: fPzgHneNFDAC},
+	keywords = {Science / Physics / General, Science / Physics / Condensed Matter}
+}
+
+@phdthesis{sindel_numerical_2005,
+	type = {Text.{PhDThesis}},
+	title = {Numerical {Renormalization} {Group} studies of {Quantum} {Impurity} {Models} in the {Strong} {Coupling} {Limit}},
+	url = {https://edoc.ub.uni-muenchen.de/3115/},
+	abstract = {In this thesis we summarize a number of theoretical studies
+dealing with various properties of quantum dots.
+Small quantum dots with a large level spacing
+are very well described by the Anderson impurity model.
+In modern quantum dot experiments all parameters of this model can be tuned via external gate voltages. Thus, it should be possible to check our theoretical findings experimentally. 
+We are particularly interested in temperatures \$T\$ smaller than the so-called Kondo temperature \$T\_K\$, \$T{\textless}T\_K\$. The Kondo temperature \$T\_K\$ is an energy scale below
+which a local spin inside the dot interacts strongly with the conduction electrons in its neighboring leads.
+Consequently we employ Wilson's numerical renormalization group method, a numerical technique which allows for an accurate calculation of properties of quantum dots in the Kondo regime.},
+	urldate = {2017-06-01},
+	school = {Ludwig-Maximilians-Universität München},
+	author = {Sindel, Michael},
+	month = jan,
+	year = {2005},
+	file = {Full Text PDF:files/34/Sindel - 2005 - Numerical Renormalization Group studies of Quantum.pdf:application/pdf;Snapshot:files/35/3115.html:text/html}
+}
+
+@article{onsager_crystal_1944,
+	title = {Crystal {Statistics}. {I}. {A} {Two}-{Dimensional} {Model} with an {Order}-{Disorder} {Transition}},
+	volume = {65},
+	url = {https://link.aps.org/doi/10.1103/PhysRev.65.117},
+	doi = {10.1103/PhysRev.65.117},
+	abstract = {The partition function of a two-dimensional "ferromagnetic" with scalar "spins" (Ising model) is computed rigorously for the case of vanishing field. The eigenwert problem involved in the corresponding computation for a long strip crystal of finite width (n atoms), joined straight to itself around a cylinder, is solved by direct product decomposition; in the special case n=∞ an integral replaces a sum. The choice of different interaction energies (±J,±J′) in the (0 1) and (1 0) directions does not complicate the problem. The two-way infinite crystal has an order-disorder transition at a temperature T=Tc given by the condition sinh(2JkTc) sinh(2J′kTc)=1. The energy is a continuous function of T; but the specific heat becomes infinite as −log {\textbar}T−Tc{\textbar}. For strips of finite width, the maximum of the specific heat increases linearly with log n. The order-converting dual transformation invented by Kramers and Wannier effects a simple automorphism of the basis of the quaternion algebra which is natural to the problem in hand. In addition to the thermodynamic properties of the massive crystal, the free energy of a (0 1) boundary between areas of opposite order is computed; on this basis the mean ordered length of a strip crystal is (exp (2JkT) tanh(2J′kT))n.},
+	number = {3-4},
+	urldate = {2017-10-20},
+	journal = {Phys. Rev.},
+	author = {Onsager, Lars},
+	month = feb,
+	year = {1944},
+	pages = {117--149},
+	file = {APS Snapshot:files/46/PhysRev.65.html:text/html}
+}
+
+@article{holleitner_probing_2002,
+	title = {Probing and {Controlling} the {Bonds} of an {Artificial} {Molecule}},
+	volume = {297},
+	issn = {0036-8075, 1095-9203},
+	url = {http://science.sciencemag.org/content/297/5578/70},
+	doi = {10.1126/science.1071215},
+	abstract = {We demonstrate how molecular quantum states of coupled semiconductor quantum dots are coherently probed and manipulated in transport experiments. The applied method probes quantum states by the virtual cotunneling of two electrons and hence resolves the sequences of molecular states simultaneously. This result is achieved by weakly probing the quantum system through parallel contacts to its constituting quantum dots. The overlap of the dots' wave functions and, in turn, the splitting of molecular states are adjusted by the direct influence of coupling electrodes.},
+	language = {en},
+	number = {5578},
+	urldate = {2017-11-21},
+	journal = {Science},
+	author = {Holleitner, Alexander W. and Blick, Robert H. and Hüttel, Andreas K. and Eberl, Karl and Kotthaus, Jörg P.},
+	month = jul,
+	year = {2002},
+	pmid = {12098692},
+	pages = {70--72},
+	file = {Snapshot:files/57/70.html:text/html}
+}
+
+@article{anderson_localized_1961,
+	title = {Localized {Magnetic} {States} in {Metals}},
+	volume = {124},
+	url = {https://link.aps.org/doi/10.1103/PhysRev.124.41},
+	doi = {10.1103/PhysRev.124.41},
+	abstract = {The conditions necessary in metals for the presence or absence of localized moments on solute ions containing inner shell electrons are analyzed. A self-consistent Hartree-Fock treatment shows that there is a sharp transition between the magnetic state and the nonmagnetic state, depending on the density of states of free electrons, the s−d admixture matrix elements, and the Coulomb correlation integral in the d shell; that in the magnetic state the d polarization can be reduced rather severely to nonintegral values, without appreciable free electron polarization because of a compensation effect; and that in the nonmagnetic state the virtual localized d level tends to lie near the Fermi surface. It is emphasized that the condition for the magnetic state depends on the Coulomb (i.e., exchange self-energy) integral, and that the usual type of exchange alone is not large enough in d-shell ions to allow magnetic moments to be present. We show that the susceptibility and specific heat due to the inner shell electrons show strongly contrasting behavior even in the nonmagnetic state. A calculation including degenerate d orbitals and d−d exchange shows that the orbital angular momentum can be quenched, even when localized spin moments exist, and even on an isolated magnetic atom, by kinetic energy effects.},
+	number = {1},
+	urldate = {2017-11-22},
+	journal = {Phys. Rev.},
+	author = {Anderson, P. W.},
+	month = oct,
+	year = {1961},
+	pages = {41--53},
+	file = {APS Snapshot:files/62/PhysRev.124.html:text/html;Full Text PDF:files/61/Anderson - 1961 - Localized Magnetic States in Metals.pdf:application/pdf}
+}
+
+@article{bulla_numerical_2008,
+	title = {Numerical renormalization group method for quantum impurity systems},
+	volume = {80},
+	url = {https://link.aps.org/doi/10.1103/RevModPhys.80.395},
+	doi = {10.1103/RevModPhys.80.395},
+	abstract = {In the early 1970s, Wilson developed the concept of a fully nonperturbative renormalization group transformation. When applied to the Kondo problem, this numerical renormalization group (NRG) method gave for the first time the full crossover from the high-temperature phase of a free spin to the low-temperature phase of a completely screened spin. The NRG method was later generalized to a variety of quantum impurity problems. The purpose of this review is to give a brief introduction to the NRG method, including some guidelines for calculating physical quantities, and to survey the development of the NRG method and its various applications over the last 30 years. These applications include variants of the original Kondo problem such as the non-Fermi-liquid behavior in the two-channel Kondo model, dissipative quantum systems such as the spin-boson model, and lattice systems in the framework of the dynamical mean-field theory.},
+	number = {2},
+	urldate = {2017-11-23},
+	journal = {Rev. Mod. Phys.},
+	author = {Bulla, Ralf and Costi, Theo A. and Pruschke, Thomas},
+	month = apr,
+	year = {2008},
+	pages = {395--450},
+	file = {APS Snapshot:files/65/RevModPhys.80.html:text/html}
+}
+
+@article{ruderman_indirect_1954,
+	title = {Indirect {Exchange} {Coupling} of {Nuclear} {Magnetic} {Moments} by {Conduction} {Electrons}},
+	volume = {96},
+	url = {https://link.aps.org/doi/10.1103/PhysRev.96.99},
+	doi = {10.1103/PhysRev.96.99},
+	abstract = {A calculation is given of the indirect exchange Ii⋅Ij type coupling of nuclear magnetic moments in a metal by means of the hyperfine interaction with the conduction electrons. The interaction appears to account qualitatively for the broad nuclear spin resonance lines observed in natural metallic silver. It is expected that the interaction may sharpen the resonances in pure isotopic specimens. The line shape of the minority isotope in a binary mixture may tend to be Gaussian, while that of the majority isotope may tend to be Lorentzian, if the indirect exchange interaction is dominant.},
+	number = {1},
+	urldate = {2018-08-21},
+	journal = {Phys. Rev.},
+	author = {Ruderman, M. A. and Kittel, C.},
+	month = oct,
+	year = {1954},
+	pages = {99--102},
+	file = {APS Snapshot:files/131/PhysRev.96.html:text/html}
+}
+
+@article{yosida_magnetic_1957,
+	title = {Magnetic {Properties} of {Cu}-{Mn} {Alloys}},
+	volume = {106},
+	url = {https://link.aps.org/doi/10.1103/PhysRev.106.893},
+	doi = {10.1103/PhysRev.106.893},
+	abstract = {The polarization of conduction electrons due to s−d interaction in CuMn alloys is investigated. The uniform polarization due to the first order perturbed energy corresponding to the Fröhlich-Nabarro and Zener mechanism is shown to be completely modified by the first order perturbation of the wave functions and the polarization is concentrated in the neighborhood of the Mn ions. At the same time it is shown that the Fröhlich-Nabarro interaction is included in the Ruderman-Kittel result as one component. The electronic g-value of Mn ions and the Knight shift of the Cu-nuclei are also discussed from this point of view.},
+	number = {5},
+	urldate = {2018-08-21},
+	journal = {Phys. Rev.},
+	author = {Yosida, Kei},
+	month = jun,
+	year = {1957},
+	pages = {893--898},
+	file = {APS Snapshot:files/135/PhysRev.106.html:text/html}
+}
+
+@article{hofstetter_generalized_2000,
+	title = {Generalized {Numerical} {Renormalization} {Group} for {Dynamical} {Quantities}},
+	volume = {85},
+	url = {https://link.aps.org/doi/10.1103/PhysRevLett.85.1508},
+	doi = {10.1103/PhysRevLett.85.1508},
+	abstract = {In this paper we introduce a new approach for calculating dynamical properties within the numerical renormalization group. It is demonstrated that the method previously used fails for the Anderson impurity in a magnetic field due to the absence of energy scale separation. The problem is solved by evaluating the Green function with respect to the reduced density matrix of the full system, leading to accurate spectra in agreement with the static magnetization. The new procedure provides a unifying framework for calculating dynamics at any temperature and represents the correct extension of Wilson's original thermodynamic calculation.},
+	number = {7},
+	urldate = {2018-08-24},
+	journal = {Phys. Rev. Lett.},
+	author = {Hofstetter, Walter},
+	month = aug,
+	year = {2000},
+	pages = {1508--1511},
+	file = {APS Snapshot:files/137/PhysRevLett.85.html:text/html}
+}
+
+@article{kasuya_theory_1956,
+	title = {A {Theory} of {Metallic} {Ferro}- and {Antiferromagnetism} on {Zener}'s {Model}},
+	volume = {16},
+	issn = {0033-068X},
+	url = {https://academic.oup.com/ptp/article/16/1/45/1861363},
+	doi = {10.1143/PTP.16.45},
+	abstract = {Abstract.  The importance to the mechanism of ferromagnetism of exchange interaction between conduction electrons and unfilled inner shell electrons (called s-d},
+	language = {en},
+	number = {1},
+	urldate = {2018-08-28},
+	journal = {Prog Theor Phys},
+	author = {Kasuya, Tadao},
+	month = jul,
+	year = {1956},
+	pages = {45--57},
+	file = {Full Text PDF:files/140/Kasuya - 1956 - A Theory of Metallic Ferro- and Antiferromagnetism.pdf:application/pdf}
+}
+@Article{vernek_subtle_2014,
+  author       = {Vernek, E. and Penteado, P. H. and Seridonio, A. C. and Egues, J. C.},
+  title        = {Subtle leakage of a Majorana mode into a quantum dot},
+  volume       = {89},
+  number       = {16},
+  pages        = {165314},
+  abstract     = {We investigate quantum transport through a quantum dot connected to source and drain leads and side coupled to a topological superconducting nanowire (Kitaev chain) sustaining Majorana end modes. Using a recursive Green's-function approach, we determine the local density of states of the system and find that the end Majorana mode of the wire leaks into the dot, thus, emerging as a unique dot level pinned to the Fermi energy ɛF of the leads. Surprisingly, this resonance pinning, resembling, in this sense, a “Kondo resonance,” occurs even when the gate-controlled dot level ɛdot(Vg) is far above or far below ɛF. The calculated conductance G of the dot exhibits an unambiguous signature for the Majorana end mode of the wire: In essence, an off-resonance dot [ɛdot(Vg)≠ɛF], which should have G=0, shows, instead, a conductance e2/2h over a wide range of Vg due to this pinned dot mode. Interestingly, this pinning effect only occurs when the dot level is coupled to a Majorana mode; ordinary fermionic modes (e.g., disorder) in the wire simply split and broaden (if a continuum) the dot level. We discuss experimental scenarios to probe Majorana modes in wires via these leaked/pinned dot modes.},
+  date         = {2014-04-30},
+  doi          = {10.1103/PhysRevB.89.165314},
+  file         = {APS Snapshot:/home/cifucito/.mozilla/firefox/8u6aewh8.default/zotero/storage/B26TVRTG/PhysRevB.89.html:text/html},
+  journaltitle = {Physical Review B},
+  shortjournal = {Phys. Rev. B},
+  url          = {https://link.aps.org/doi/10.1103/PhysRevB.89.165314},
+  urldate      = {2017-11-27},
+}
+
+@Article{deng_majorana_2016,
+  author       = {Deng, M. T. and Vaitiekenas, S. and Hansen, E. B. and Danon, J. and Leijnse, M. and Flensberg, K. and Nygard, J. and Krogstrup, P. and Marcus, C. M.},
+  title        = {Majorana bound state in a coupled quantum-dot hybrid-nanowire system},
+  volume       = {354},
+  number       = {6319},
+  pages        = {1557--1562},
+  issn         = {0036-8075, 1095-9203},
+  abstract     = {Watching Majorana bound states form
+Majorana bound states ({MBSs}) are peculiar quasiparticles that may one day become the cornerstone of topological quantum computing. To engineer these states, physicists have used semiconductor nanowires in contact with a superconductor. Although many of the observed properties align with theoretical predictions, a closer look into the creation of {MBSs} is desirable. Deng et al. fabricated nanowires with a quantum dot at one end that served as a spectrometer for the states that formed inside the superconducting gap of the nanowire. Using this setup, topologically trivial bound states were seen to coalesce into {MBSs} as the magnetic field was varied.
+Science, this issue p. 1557
+Hybrid nanowires combining semiconductor and superconductor materials appear well suited for the creation, detection, and control of Majorana bound states ({MBSs}). We demonstrate the emergence of {MBSs} from coalescing Andreev bound states ({ABSs}) in a hybrid {InAs} nanowire with epitaxial Al, using a quantum dot at the end of the nanowire as a spectrometer. Electrostatic gating tuned the nanowire density to a regime of one or a few {ABSs}. In an applied axial magnetic field, a topological phase emerges in which {ABSs} move to zero energy and remain there, forming {MBSs}. We observed hybridization of the {MBS} with the end-dot bound state, which is in agreement with a numerical model. The {ABS}/{MBS} spectra provide parameters that are useful for understanding topological superconductivity in this system.
+Tunneling spectroscopy gives insights into the formation of Majorana bound states in a proximitized indium arsenide nanowire.
+Tunneling spectroscopy gives insights into the formation of Majorana bound states in a proximitized indium arsenide nanowire.},
+  date         = {2016-12-23},
+  doi          = {10.1126/science.aaf3961},
+  file         = {Snapshot:/home/cifucito/.mozilla/firefox/8u6aewh8.default/zotero/storage/GB6TRQSI/1557.html:text/html},
+  journaltitle = {Science},
+  langid       = {english},
+  pmid         = {28008065},
+  rights       = {Copyright © 2016, American Association for the Advancement of Science},
+  url          = {http://science.sciencemag.org/content/354/6319/1557},
+  urldate      = {2017-11-27},
+}
+
+@Article{lee_kondo_2013,
+  author       = {Lee, Minchul and Lim, Jong Soo and Lopez, Rosa},
+  title        = {Kondo effect in a quantum dot side-coupled to a topological superconductor},
+  volume       = {87},
+  number       = {24},
+  pages        = {241402},
+  abstract     = {We investigate the dynamical and transport features of a Kondo dot side coupled to a topological superconductor ({TS}). The Majorana fermion states ({MFSs}) formed at the ends of the {TS} are found to be able to alter the Kondo physics profoundly: For an infinitely long wire where the {MFSs} do not overlap (εm=0) a finite dot-{MFS} coupling (Γm) reduces the unitary-limit value of the linear conductance by exactly a factor 3/4 in the weak-coupling regime (Γm{\textless}{TK}), where {TK} is the Kondo temperature. In the strong-coupling regime (Γm{\textgreater}{TK}), on the other hand, the spin-split Kondo resonance takes place due to the {MFS}-induced Zeeman splitting, which is a genuine many-body effect of the strong Coulomb interaction and the topological superconductivity. We find that the original Kondo resonance is fully restored once the {MFSs} are strongly hybridized (εm{\textgreater}Γm). This unusual interaction between the Kondo effect and the {MFS} can thus serve to detect the Majorana fermions unambiguously and quantify the degree of overlap between the {MFSs} in the {TS}.},
+  date         = {2013-06-12},
+  doi          = {10.1103/PhysRevB.87.241402},
+  file         = {APS Snapshot:/home/cifucito/.mozilla/firefox/8u6aewh8.default/zotero/storage/IHBWG8F8/PhysRevB.87.html:text/html},
+  journaltitle = {Physical Review B},
+  shortjournal = {Phys. Rev. B},
+  url          = {https://link.aps.org/doi/10.1103/PhysRevB.87.241402},
+  urldate      = {2017-11-27},
+}
+
+@Article{golub_kondo_2011,
+  author       = {Golub, A. and Kuzmenko, I. and Avishai, Y.},
+  title        = {Kondo Correlations and Majorana Bound States in a Metal to Quantum-Dot to Topological-Superconductor Junction},
+  volume       = {107},
+  number       = {17},
+  pages        = {176802},
+  abstract     = {Electron transport through a normal-metal–quantum-dot–topological-superconductor junction is studied and reveals interlacing physics of Kondo correlations with two Majorana fermions bound states residing on the opposite ends of the topological superconductor. When the strength of the Majorana fermion coupling exceeds the temperature T, this combination of Kondo-Majorana fermion physics might be amenable for an experimental test: The usual peak of the temperature dependent zero bias conductance σ(V=0,T) splits and the conductance has a dip at T=0. The heights of the conductance side peaks decrease with magnetic field.},
+  date         = {2011-10-17},
+  doi          = {10.1103/PhysRevLett.107.176802},
+  file         = {APS Snapshot:/home/cifucito/.mozilla/firefox/8u6aewh8.default/zotero/storage/UZZC5LS4/PhysRevLett.107.html:text/html;Full Text PDF:/home/cifucito/.mozilla/firefox/8u6aewh8.default/zotero/storage/V5WS3YIV/Golub et al. - 2011 - Kondo Correlations and Majorana Bound States in a .pdf:application/pdf},
+  journaltitle = {Physical Review Letters},
+  shortjournal = {Phys. Rev. Lett.},
+  url          = {https://link.aps.org/doi/10.1103/PhysRevLett.107.176802},
+  urldate      = {2017-11-27},
+}
+
+@Article{ruiz-tijerina_interaction_2015,
+  author       = {Ruiz-Tijerina, David A. and Vernek, E. and Dias da Silva, Luis G. G. V. and Egues, J. C.},
+  title        = {Interaction effects on a Majorana zero mode leaking into a quantum dot},
+  volume       = {91},
+  number       = {11},
+  pages        = {115435},
+  abstract     = {We have recently shown [Phys. Rev. B 89, 165314 (2014)] that a noninteracting quantum dot coupled to a one-dimensional topological superconductor and to normal leads can sustain a Majorana mode even when the dot is expected to be empty, i.e., when the dot energy level is far above the Fermi level of the leads. This is due to the Majorana bound state of the wire leaking into the quantum dot. Here we extend this previous work by investigating the low-temperature quantum transport through an interacting quantum dot connected to source and drain leads and side coupled to a topological wire. We explore the signatures of a Majorana zero mode leaking into the quantum dot for a wide range of dot parameters, using a recursive Green's function approach. We then study the Kondo regime using numerical renormalization group calculations. We observe the interplay between the Majorana mode and the Kondo effect for different dot-wire coupling strengths, gate voltages, and Zeeman fields. Our results show that a “0.5” conductance signature appears in the dot despite the interplay between the leaked Majorana mode and the Kondo effect. This robust feature persists for a wide range of dot parameters, even when the Kondo correlations are suppressed by Zeeman fields and/or gate voltages. The Kondo effect, on the other hand, is suppressed by both Zeeman fields and gate voltages. We show that the zero-bias conductance as a function of the magnetic field follows a well-known universality curve. This can be measured experimentally, and we propose that the universal conductance drop followed by a persistent conductance of 0.5e2/h is evidence of the presence of Majorana-Kondo physics. These results confirm that this “0.5” Majorana signature in the dot remains even in the presence of the Kondo effect.},
+  date         = {2015-03-26},
+  doi          = {10.1103/PhysRevB.91.115435},
+  file         = {APS Snapshot:/home/cifucito/.mozilla/firefox/8u6aewh8.default/zotero/storage/T3AMUGE3/PhysRevB.91.html:text/html;Full Text PDF:/home/cifucito/.mozilla/firefox/8u6aewh8.default/zotero/storage/EWRJ3XBT/Ruiz-Tijerina et al. - 2015 - Interaction effects on a Majorana zero mode leakin.pdf:application/pdf},
+  journaltitle = {Physical Review B},
+  shortjournal = {Phys. Rev. B},
+  url          = {https://link.aps.org/doi/10.1103/PhysRevB.91.115435},
+  urldate      = {2017-11-27},
+}
+
+@Article{liu_detecting_2011,
+  author       = {Liu, Dong E. and Baranger, Harold U.},
+  title        = {Detecting a Majorana-Fermion Zero Mode Using a Quantum Dot},
+  volume       = {84},
+  number       = {20},
+  issn         = {1098-0121, 1550-235X},
+  abstract     = {We propose an experimental setup for detecting a Majorana zero mode consisting of a spinless quantum dot coupled to the end of a p-wave superconducting nanowire. The Majorana bound state at the end of the wire strongly influences the conductance through the quantum dot: Driving the wire through the topological phase transition causes a sharp jump in the conductance by a factor of 1/2. In the topological phase, the zero temperature peak value of the dot conductance (i.e. when the dot is on resonance and symmetrically coupled to the leads) is e{\textasciicircum}2/2h. In contrast, if the wire is in its trivial phase, the conductance peak value is e{\textasciicircum}2/h, or if a regular fermionic zero mode occurs on the end of the wire, the conductance is 0. The system can also be used to tune Flensberg's qubit system [{PRL} 106, 090503 (2011)] to the required degeneracy point.},
+  date         = {2011-11-16},
+  doi          = {10.1103/PhysRevB.84.201308},
+  eprint       = {1107.4338},
+  eprinttype   = {arxiv},
+  file         = {arXiv\:1107.4338 PDF:/home/cifucito/.mozilla/firefox/8u6aewh8.default/zotero/storage/SQ95DMQT/Liu and Baranger - 2011 - Detecting a Majorana-Fermion Zero Mode Using a Qua.pdf:application/pdf;arXiv.org Snapshot:/home/cifucito/.mozilla/firefox/8u6aewh8.default/zotero/storage/3T5M9EJE/1107.html:text/html},
+  journaltitle = {Physical Review B},
+  keywords     = {Condensed Matter - Mesoscale and Nanoscale Physics, Condensed Matter - Superconductivity},
+  url          = {http://arxiv.org/abs/1107.4338},
+  urldate      = {2017-06-01},
+}
+
+@Article{Oreg:Phys.Rev.Lett.:177002:2010,
+  author    = {Oreg, Yuval and Refael, Gil and von Oppen, Felix},
+  title     = {Helical Liquids and Majorana Bound States in Quantum Wires},
+  journal   = {Phys. Rev. Lett.},
+  year      = {2010},
+  volume    = {105},
+  pages     = {177002},
+  month     = {Oct},
+  issue     = {17},
+  numpages  = {4},
+  owner     = {Gregorio},
+  publisher = {American Physical Society},
+  timestamp = {2018.06.23},
+  url       = {https://link.aps.org/doi/10.1103/PhysRevLett.105.177002},
+}
+
+@Article{Lutchyn:Phys.Rev.Lett.:77001:2010,
+  author    = {Lutchyn, Roman M. and Sau, Jay D. and Das Sarma, S.},
+  title     = {Majorana Fermions and a Topological Phase Transition in Semiconductor-Superconductor Heterostructures},
+  journal   = {Phys. Rev. Lett.},
+  year      = {2010},
+  volume    = {105},
+  pages     = {077001},
+  month     = {Aug},
+  abstract  = {We propose and analyze theoretically an experimental setup for detecting
+	the elusive Majorana particle in semiconductor-superconductor heterostructures.
+	The experimental system consists of one-dimensional semiconductor
+	wire with strong spin-orbit Rashba interaction embedded into a superconducting
+	quantum interference device. We show that the energy spectra of the
+	Andreev bound states at the junction are qualitatively different
+	in topologically trivial (i.e., not containing any Majorana) and
+	nontrivial phases having an even and odd number of crossings at zero
+	energy, respectively. The measurement of the supercurrent through
+	the junction allows one to discern topologically distinct phases
+	and observe a topological phase transition by simply changing the
+	in-plane magnetic field or the gate voltage. The observation of this
+	phase transition will be a direct demonstration of the existence
+	of Majorana particles.},
+  issue     = {7},
+  numpages  = {4},
+  owner     = {Gregorio},
+  publisher = {American Physical Society},
+  timestamp = {2018.06.23},
+  url       = {https://link.aps.org/doi/10.1103/PhysRevLett.105.077001},
+}
+
+@Article{Mourik:Science:1003:2012,
+  author    = {Mourik, V. and Zuo, K. and Frolov, S. M. and Plissard, S. R. and Bakkers, E. P. A. M. and Kouwenhoven, L. P.},
+  title     = {Signatures of Majorana Fermions in Hybrid Superconductor-Semiconductor Nanowire Devices},
+  journal   = {Science},
+  year      = {2012},
+  volume    = {336},
+  number    = {6084},
+  pages     = {1003-1007},
+  abstract  = {Majorana fermions are particles identical to their own antiparticles.
+	They have been theoretically predicted to exist in topological superconductors.
+	Here, we report electrical measurements on indium antimonide nanowires
+	contacted with one normal (gold) and one superconducting (niobium
+	titanium nitride) electrode. Gate voltages vary electron density
+	and define a tunnel barrier between normal and superconducting contacts.
+	In the presence of magnetic fields on the order of 100 millitesla,
+	we observe bound, midgap states at zero bias voltage. These bound
+	states remain fixed to zero bias, even when magnetic fields and gate
+	voltages are changed over considerable ranges. Our observations support
+	the hypothesis of Majorana fermions in nanowires coupled to superconductors.},
+  owner     = {Gregorio},
+  timestamp = {2018.06.23},
+}
+
+@Article{Alicea:Reports:2012,
+  author   = {Jason Alicea},
+  title    = {New directions in the pursuit of Majorana fermions in solid state systems},
+  journal  = {Rep. Prog. Phys.},
+  year     = {2012},
+  volume   = {75},
+  number   = {7},
+  pages    = {076501},
+  abstract = {The 1937 theoretical discovery of Majorana fermionsâ€”whose defining
+	property is that they are their own anti-particlesâ€”has since impacted
+	diverse problems ranging from neutrino physics and dark matter searches
+	to the fractional quantum Hall effect and superconductivity. Despite
+	this long history the unambiguous observation of Majorana fermions
+	nevertheless remains an outstanding goal. This review paper highlights
+	recent advances in the condensed matter search for Majorana that
+	have led many in the field to believe that this quest may soon bear
+	fruit. We begin by introducing in some detail exotic â€˜topologicalâ€™
+	one- and two-dimensional superconductors that support Majorana fermions
+	at their boundaries and at vortices. We then turn to one of the key
+	insights that arose during the past few years; namely, that it is
+	possible to â€˜engineerâ€™ such exotic superconductors in the laboratory
+	by forming appropriate heterostructures with ordinary s-wave superconductors.
+	Numerous proposals of this type are discussed, based on diverse materials
+	such as topological insulators, conventional semiconductors, ferromagnetic
+	metals and many others. The all-important question of how one experimentally
+	detects Majorana fermions in these setups is then addressed. We focus
+	on three classes of measurements that provide smoking-gun Majorana
+	signatures: tunneling, Josephson effects and interferometry. Finally,
+	we discuss the most remarkable properties of condensed matter Majorana
+	fermionsâ€”the non-Abelian exchange statistics that they generate
+	and their associated potential for quantum computation.},
+  url      = {http://stacks.iop.org/0034-4885/75/i=7/a=076501},
+}
+
+@Comment{jabref-meta: databaseType:bibtex;}
